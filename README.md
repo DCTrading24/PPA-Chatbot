@@ -27,6 +27,9 @@ The chatbot retrieves relevant sections from ChromaDB.
 OpenAI's GPT-4 generates a structured response.
 
 Response Format
+
 Brief Overview
+
 Key Points (bullet format)
+
 Source References
